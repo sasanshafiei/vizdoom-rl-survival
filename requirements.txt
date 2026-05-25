@@ -1,0 +1,18 @@
+# CMP4501 ViZDoom RL Survival Project
+# Tested/recommended with Python 3.11 on Windows.
+# Important: do NOT use Python 3.14 for this project.
+# Important: do NOT install stable-baselines3[extra]; Atari extras are not needed.
+
+gymnasium==0.29.1
+vizdoom==1.3.0
+stable-baselines3==2.3.2
+torch==2.3.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+pillow==10.4.0
+imageio==2.34.1
+imageio-ffmpeg==0.5.1
+tqdm==4.66.4
+rich==13.7.1
+tensorboard==2.16.2

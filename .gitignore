@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and experiment noise
+logs/*
+!logs/.gitkeep
+runs/
+wandb/
+
+# Large or temporary model files
+models/checkpoints/*
+!models/checkpoints/.gitkeep
+models/*.pt
+models/*.pth
+models/*.tar
+models/*_tmp.zip
+
+# Large raw video exports; keep final required stage videos small
+videos/raw/
+videos/*.avi
+videos/*.mkv
+videos/*_long.mp4
+
+# Temporary assets
+assets/tmp/

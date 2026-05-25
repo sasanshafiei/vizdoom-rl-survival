@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
- 
   <b>Course:</b> CMP4501 &nbsp; | &nbsp;
   <b>Track:</b> Option B – Visual Survival with ViZDoom
 </p>

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Student:</b> &lt;Your Name&gt; &nbsp; | &nbsp;
+ 
   <b>Course:</b> CMP4501 &nbsp; | &nbsp;
   <b>Track:</b> Option B – Visual Survival with ViZDoom
 </p>
